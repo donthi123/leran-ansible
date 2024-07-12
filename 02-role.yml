@@ -1,0 +1,4 @@
+- name: sample role
+  hosts: localhost
+  roles:
+    - demo
